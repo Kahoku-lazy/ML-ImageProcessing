@@ -1,6 +1,7 @@
-/exercise
-/log/*
-/excel/*.xlsx
+# folder
+/exercise/
+log/
+excel/
 
 # Windows:
 Thumbs.db
@@ -12,5 +13,3 @@ Desktop.ini
 *.so
 *.egg
 *.egg-info
-dist
-build
